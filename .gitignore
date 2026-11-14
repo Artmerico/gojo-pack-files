@@ -1,0 +1,9 @@
+# Only the media is published
+*
+!media/
+!media/**
+!README.md
+!.nojekyll
+!.gitignore
+!.gitattributes
+media/alert/alert.mp3
